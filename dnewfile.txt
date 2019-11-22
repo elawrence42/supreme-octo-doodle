@@ -1,0 +1,2 @@
+and another one. let's try making all the changes from iterm2 first and see what happens over on sid desktop after.
+
